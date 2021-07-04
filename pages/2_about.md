@@ -11,8 +11,8 @@ permalink: /about/
 
 - Name : Tae-hyun Lee
 - Email : leethw@naver.com
-- Blog : https://leetaehyun94.github.io
-- Github : https://github.com/LeeTaeHyun94
+- Blog : https://kyuminmoon.github.io
+- Github : https://github.com/kyuminMoon
 - LinkedIn : https://linkedin.com/in/leethyun
 - Get My Portfolio! : [leethyun's Portfolio](./../downloads/leethyun_portfolio_v3.pdf)
 
@@ -108,10 +108,10 @@ See my project page for details.
 ## About the site
 
 This is a personal website of leethyun, created with github and jekyll.
-Create your own website is as easy as clone or fork a [template](https://github.com/LeeTaeHyun94/leetaehyun94.github.io) on github, and [commit](http://jekyllrb.com/docs/posts/) to `_posts` folder. 
+Create your own website is as easy as clone or fork a [template](https://github.com/kyuminMoon/kyuminmoon.github.io) on github, and [commit](http://jekyllrb.com/docs/posts/) to `_posts` folder. 
 
 ### Admin tools
-* site [configuration file](https://github.com/LeeTaeHyun94/leetaehyun94.github.io/blob/master/_config.yml)
+* site [configuration file](https://github.com/kyuminMoon/kyuminmoon.github.io/blob/master/_config.yml)
 * Jekyll + [leethyun.disqus.com](http://leethyun.disqus.com/admin/)
 * Jekyll theme templates: [jekyllthemes.org](http://jekyllthemes.org)
    * Theme used: [cool-concise](http://jekyllthemes.org/themes/cool-concise-high-end/)

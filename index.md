@@ -2,7 +2,7 @@
 layout: frontpage
 ---
 
-## Dev Universe (leethyun Blog)
+## Dev Universe (kyumin Blog)
 
 Hello, Dev Universe!
 
