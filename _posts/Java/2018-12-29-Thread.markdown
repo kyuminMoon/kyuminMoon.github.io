@@ -2,7 +2,7 @@
 layout: post
 title:  "Thread"
 description: "Introduction to Java Thread"
-author: leethyun
+author: kyumin
 date:   2018-12-29 23:30:00
 categories: Java
 comments: true
